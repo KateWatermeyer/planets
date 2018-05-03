@@ -1,3 +1,5 @@
-this is a planet
+This is a planet
 
 kate changed stuff
+
+This is a new line
